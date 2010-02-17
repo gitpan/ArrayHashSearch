@@ -1,7 +1,7 @@
 #!/usr/bin/perl -w
 use strict;
 use warnings;
-use ./lib/ArrayHashSearch;
+use ArrayHashSearch;
 
 my $dummyarray1 = [1,2,3];
 my $dummyarray2 = [4,5,$dummyarray1];

@@ -12,7 +12,7 @@ use vars qw($VERSION @EXPORT @EXPORT_OK @ISA);
 require Exporter;
 
 @ISA = qw(Exporter);
-$VERSION = '0.03';
+$VERSION = '0.04';
 @EXPORT = qw(array_contain array_deeply_contain hash_contain hash_deeply_contain deeply_contain);
 
 =head1 Features
@@ -269,6 +269,6 @@ __END__
 
 =head1 History
 
- Version 0.0.3: first release; December 2007
+ Version 0.0.4: first release; December 2007
 
 =cut
