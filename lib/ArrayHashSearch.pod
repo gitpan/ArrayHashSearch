@@ -148,7 +148,7 @@
 <hr />
 <h1><a name="history">History</a></h1>
 <pre>
- <span class="variable">Version</span> <span class="number">0</span><span class="operator">.</span><span class="number">1</span><span class="operator">:</span> <span class="variable">created</span><span class="operator">;</span> <span class="variable">December</span> <span class="number">2007</span>
+ <span class="variable">Version</span> <span class="number">0</span><span class="operator">.</span><span class="number">0</span><span class="operator">.</span><span class="number">3</span><span class="operator">:</span> <span class="variable">first</span> <span class="variable">release</span><span class="operator">;</span> <span class="variable">December</span> <span class="number">2007</span>
 </pre>
 
 </body>
